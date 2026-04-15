@@ -52,6 +52,9 @@
 
 body {
   margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top, #1a1a2e, #0f0f1a);
+  color: white;
 }
 
 #root {
